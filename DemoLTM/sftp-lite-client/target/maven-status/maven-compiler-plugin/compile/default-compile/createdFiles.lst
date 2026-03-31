@@ -1,0 +1,3 @@
+com\groupft\sftp\lite\client\AesGcm.class
+com\groupft\sftp\lite\client\SftpLiteClient.class
+com\groupft\sftp\lite\client\SftpLiteClient$BarProgress.class

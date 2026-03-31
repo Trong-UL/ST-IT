@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "username": "ftuser",
+      "passwordPlain": "12345",
+      "role": "readWrite",
+      "home": "storage/ftuser"
+    },
+    {
+      "username": "viewer",
+      "passwordPlain": "12345",
+      "role": "readOnly",
+      "home": "storage/viewer"
+    }
+  ]
+}
